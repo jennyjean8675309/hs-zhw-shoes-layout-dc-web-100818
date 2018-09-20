@@ -294,7 +294,7 @@ section a {
 }
 
 .first {
-  margin-left: 0%;
+  margin-left: 0;
 }
 
 #middle {
@@ -304,7 +304,7 @@ section a {
 
 #deals {
   background-color: transparent;
-  padding: 20px 0px;
+  padding: 20px 0;
 }
 
 /********** Details **********/
