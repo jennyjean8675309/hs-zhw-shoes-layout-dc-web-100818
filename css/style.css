@@ -280,7 +280,9 @@ section a {
   
 }
 
-[]
+[class*="col-"] {
+  margin: 2%;
+}
 
 /********** Details **********/
 
