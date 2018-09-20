@@ -297,9 +297,14 @@ section a {
   margin-left: 0%;
 }
 
-#middle, #deals {
+#middle {
   background-color: transparent;
   padding: 0;
+}
+
+#deals {
+  background-color: transparent;
+  padding: ;
 }
 
 /********** Details **********/
