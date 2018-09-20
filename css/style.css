@@ -281,11 +281,11 @@ section a {
 }
 
 [class*="col-"] {
-  margin: 2%;
+  margin-left: 2%;
 }
 
 .first {
-  margin
+  margin-left: 0%;
 }
 
 /********** Details **********/
