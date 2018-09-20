@@ -297,7 +297,7 @@ section a {
   margin-left: 0%;
 }
 
-#middle {
+#middle, #deals {
   background-color: transparent;
   padding: 0;
 }
