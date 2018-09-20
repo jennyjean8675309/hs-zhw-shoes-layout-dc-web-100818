@@ -297,6 +297,10 @@ section a {
   margin-left: 0%;
 }
 
+#middle {
+  background-color: none;
+}
+
 /********** Details **********/
 
 #details {
